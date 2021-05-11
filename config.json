@@ -1,0 +1,9 @@
+{
+  "apiKey": "AIzaSyCNGmfhBlk4C1i12FwVgq2vIPfUmLz4elo",
+  "url": "https://www.googleapis.com/youtube/v3/commentThreads",
+  "part": "snippet",
+  "maxResults": 100,
+  "order": "time",
+  "saveFormat": "csv",
+  "includeReplies": false
+}

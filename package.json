@@ -1,0 +1,16 @@
+{
+  "name": "youtube-comments-tool",
+  "version": "1.0.0",
+  "description": "Fetches comments from YouTube videos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "fs-extra": "^9.1.0",
+    "googleapis": "^72.0.0"
+  }
+}
